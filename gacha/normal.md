@@ -1,9 +1,4 @@
 # 通常ガチャ
-**%player% はプレイヤー名に置き換えられる.**  
-
-参考:
-- [Give generator](http://mapmaking.fr/give/)
-- [Enchanting/ID - Official Minecraft Wiki](https://minecraft.gamepedia.com/Enchanting/ID)
 
 |  アイテム名 | 表示アイテムID | アイテム数 | 説明書き1行目 | 説明書き2行目 | 確率 | 花火の有無 | 光らせるか(アイテムを?) | 賞品(コマンドで記述) | メッセージ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
